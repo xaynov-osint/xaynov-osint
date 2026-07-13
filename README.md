@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">xaynov</h1> <p align="center"> <b>Independent OSINT Analyst · Case-Officer</b><br> Разведка на основе открытых данных · деанонимизация · аналитика цифровых активов </p> <p align="center"> <a href="https://xaynov.live">🌐 xaynov.live</a> · <a href="https://t.me/osint_xaynov">✈️ Telegram</a> • <a href="mailto:contact@xaynov.live">✉️ Contact</a> </p>
 
-<!--
-**xaynov-osint/xaynov-osint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+- Независимый OSINT-исследователь. Работаю с открытыми источниками: провожу проверки, расследования и обучаю методологии. Самоучка, практикуюсь на реальных кейсах и CTF.
 
-Here are some ideas to get you started:
+## Направления
+- Due Diligence — комплексная проверка физических и юридических лиц
+- Threat Intelligence — мониторинг деструктивных сообществ и угроз
+- Crypto Intelligence — аналитика кошельков, транзакций и бирж
+- HUMINT — разведмероприятия на основе контакта с человеком
+## Избранное
+- 🛡 +888 Protocol — деанонимизация фигуранта мошеннической схемы с цифровыми активами
+- 🛡 The Loot Case — ликвидация мошеннической инфраструктуры и возврат активов
+- 🛡 Telegram Forward ID Spoofing — разбор эксплойта подделки системных уведомлений
+- 🏆 Business Intelligence CTF — 100% заданий, поощрение от организаторов
+- Отчёты и портфолио → xaynov.live/portfolio.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Где меня найти
+<p> <a href="https://t.me/osint_xaynov"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://www.youtube.com/@xaynov-osint"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://tiktok.com/@xaynov_osint"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"></a>
+<p align="center"><sub> Вся деятельность носит образовательный и научно-исследовательский характер и направлена на повышение цифровой грамотности и осведомлённости о безопасности. </sub></p>
